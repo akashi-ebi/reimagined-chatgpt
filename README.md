@@ -1,11 +1,3 @@
 # reimagined-chatgpt  
+![reimagined copy](https://user-images.githubusercontent.com/106796140/223887676-e3212b0b-180b-4e11-986c-d2dddf8b1412.png)
 Jailbreak prompt archive for use with OpenAI's ChatGPT model.
-
-
-I also recommend using the unofficial desktop app, as it provides more functionality. https://github.com/lencx/ChatGPT
-
-Made by akashi#5340
-#### We do not condone using these prompts for malicious purposes. Educational use only.  
-
-
-
